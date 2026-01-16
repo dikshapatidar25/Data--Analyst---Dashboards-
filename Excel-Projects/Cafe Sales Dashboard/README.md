@@ -1,4 +1,3 @@
-Excel-Projects/Cafe Sales Dashboard/Screenshot (9).png
 # ☕ Cafe Sales Dashboard (MS Excel)
 
 ## 📊 Dashboard Preview
