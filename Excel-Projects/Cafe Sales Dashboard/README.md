@@ -2,9 +2,8 @@ Excel-Projects/Cafe Sales Dashboard/Screenshot (9).png
 # ☕ Cafe Sales Dashboard (MS Excel)
 
 ## 📊 Dashboard Preview
-(Add screenshots in the `screenshots` folder and update names if needed)
 
-![Cafe Sales Dashboard](Excel-Projects/Cafe Sales Dashboard/Screenshot (9).png)
+(Excel-Projects/Cafe Sales Dashboard/Screenshot (9).png)
 
 ---
 
