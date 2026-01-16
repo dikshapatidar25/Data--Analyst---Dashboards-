@@ -2,7 +2,10 @@
 
 ## 📊 Dashboard Preview
 
-(Excel-Projects/Cafe Sales Dashboard/Screenshot (9).png)
+(Excel-Projects/Cafe Sales Dashboard/Screenshot (9).png)## Dashboard Preview
+
+![Cafe Sales Dashboard](Screenshot (9).png)
+
 
 ---
 
